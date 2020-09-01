@@ -1,4 +1,4 @@
-#2020_08_samples
+# 2020_08_samples
 
 First reading notes samples provided by Konrad in August 2020.
 
